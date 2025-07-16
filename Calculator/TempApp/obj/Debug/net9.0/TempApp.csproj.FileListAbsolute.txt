@@ -1,0 +1,15 @@
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\bin\Debug\net9.0\TempApp.exe
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\bin\Debug\net9.0\TempApp.deps.json
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\bin\Debug\net9.0\TempApp.runtimeconfig.json
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\bin\Debug\net9.0\TempApp.dll
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\bin\Debug\net9.0\TempApp.pdb
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.AssemblyInfoInputs.cache
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.AssemblyInfo.cs
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.csproj.CoreCompileInputs.cache
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.sourcelink.json
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.dll
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\refint\TempApp.dll
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.pdb
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\TempApp.genruntimeconfig.cache
+C:\Users\UV813QE\OneDrive - EY\Engagements-2025\Agent-POC\test-repo\csharp-for-everybody\Calculator\TempApp\obj\Debug\net9.0\ref\TempApp.dll
